@@ -51,5 +51,11 @@ trainer_pokemon의 trainer_id와 trainer의 id를 key로 LEFT JOIN한 결과
 - 0은 데이터가 0으로 존재하는 경우로 존재하지 않는 데이터인 NULL과 차이가 있음.
 - 연결할 값이 없는 경우 JOIN에서 나타남.
 # 5-6. JOIN 연습문제 1~2번
+## 1.트레이너가 보유한 포켓몬들은 얼마나 있는지 알 수 있는 쿼리를 작성해주세요.
+![image](https://github.com/user-attachments/assets/9c25f41c-1117-42f9-9e5b-d3f7168edf40)
+서브쿼리를 사용해서 ('active', training')상태인 포켓몬들을 먼저 선정하고 이후 카운트 하는 방법.
+## 2.각 트레이너가 가진 포켓몬 중에서 'grass'타입의 포켓몬 수를 계산해주세요.(단 편의를 위해 type1 기준으로 계산해주세요.)
+![image](https://github.com/user-attachments/assets/420aa21d-e08f-4114-b513-145c064563b5)
+
 - *5-6. JOIN 연습문제 3~5번*
 - **5-7. 정리**

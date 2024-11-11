@@ -56,6 +56,15 @@ trainer_pokemon의 trainer_id와 trainer의 id를 key로 LEFT JOIN한 결과
 서브쿼리를 사용해서 ('active', training')상태인 포켓몬들을 먼저 선정하고 이후 카운트 하는 방법.
 ## 2.각 트레이너가 가진 포켓몬 중에서 'grass'타입의 포켓몬 수를 계산해주세요.(단 편의를 위해 type1 기준으로 계산해주세요.)
 ![image](https://github.com/user-attachments/assets/420aa21d-e08f-4114-b513-145c064563b5)
+# 5-6. JOIN 연습문제 3~5번
+## 3.트레이너의 고향(hometown)과 포켓몬을 포획한 위치(location)를 비교하여, 자신의 고향에서 포켓몬을 포획한 트레이너의 수를 계산해주세요.(status 상관없이)
+![image](https://github.com/user-attachments/assets/3ca3626c-3e84-4d33-a505-af1978e5aec0)
+## 4.MASTER 등급인 트레이너들은 어떤 타입의 포켓몬을 제일 많이 보유하고 있을까요?
+![image](https://github.com/user-attachments/assets/089ce5f3-f83a-4905-ad81-ea639635584e)
+## 5.INCHEON 출신 트레이너들은 1세대, 2세대 포켓몬을 얼마나 보유하고 있나요?
+![image](https://github.com/user-attachments/assets/0678f870-81e7-4284-8261-de12b94e36d3)
 
-- *5-6. JOIN 연습문제 3~5번*
-- **5-7. 정리**
+# 5-7. 정리
+![image](https://github.com/user-attachments/assets/b0478302-6fa9-4efb-9cce-5a95c8e52107)  
+![image](https://github.com/user-attachments/assets/6a6171d3-206c-407e-8095-6efbc6455af5)
+

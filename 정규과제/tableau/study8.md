@@ -12,7 +12,7 @@
 2023년 nba선수들 스탯 데이터셋
 
 ### 대시보드 링크(태블로 퍼블릭)
-저장이 안되네요...
+저장이 안된다는데 되면 고치겠습니다..
 ---
 ### 대시보드 설명
 ![image](https://github.com/user-attachments/assets/c5f4f215-9cd1-4f68-8bcd-cafc647ee96b)
